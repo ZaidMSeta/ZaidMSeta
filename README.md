@@ -1,8 +1,23 @@
+<div id="header" align="center">
+  <img src=https://github.com/ZaidMSeta/ZaidMSeta/assets/144247476/fc3fff6c-9eed-449e-8a61-0340538c8028" width="250"/>
+  
+  <div id="badges">
+    <a href="https://github.com/ZaidMSeta">
+      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://stackoverflow.com/users/22750010/zaidmseta">
+      <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Za&style=flat-square&color=blue" alt=""/>
+  </div>
 
-![ZS](https://github.com/ZaidMSeta/ZaidMSeta/assets/144247476/fc3fff6c-9eed-449e-8a61-0340538c8028)
+---
+
+### 📄: About Me :
 
 Hi there! I'm Zaid, a 17 year old programmer who is interested in everything to do with computer science. 
-I've worked with:
+- I 
 
 IDE: <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
