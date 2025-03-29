@@ -16,9 +16,7 @@
 
 ### 📄 About Me
 
-Hi there! I'm Zaid, a 17 year old programmer who is interested in everything to do with computer science. 
-- 🖥️ I am currently a Grade 12 student who loves programming, basketball and playing chess
-- ✏️ Currently learning web development and how to use Github properly
+Hi there! I'm Zaid!
 - 📧 Reach me at [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zaidmseta@gmail.com)
 
 ---
