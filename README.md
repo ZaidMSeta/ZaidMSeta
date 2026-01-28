@@ -10,7 +10,7 @@
 - **Room Availability Scraper**  
   Playwright + TypeScript tool that scrapes campus room schedules and normalizes them into structured data for querying and downstream use.
 
-  Repo: <link>
+  Repo: https://github.com/ZaidMSeta/mcmaster-room-schedule-scraper
 
 ### Contact
 - Email: zaidmseta@gmail.com
