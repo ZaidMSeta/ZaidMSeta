@@ -8,11 +8,12 @@
 
 ### Featured project
 - **Room Availability Scraper**  
-  Playwright + TypeScript tool that scrapes campus room schedules and normalizes them into structured data for querying and downstream use.
-- [Repo Link](https://github.com/ZaidMSeta/mcmaster-room-schedule-scraper)
+  Playwright + TypeScript tool that scrapes campus room schedules and normalizes them into structured data for querying and downstream use.  
+  Repo: https://github.com/ZaidMSeta/mcmaster-room-schedule-scraper
+
 
 ### Contact
-- [Email](zaidmseta@gmail.com)
+- [Email](mailto:zaidmseta@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/zaidseta/)
 
 <details>
