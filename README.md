@@ -5,6 +5,7 @@
 ### Currently
 - Learning: data structures & algorithms, systems/concurrency, SQL & data modeling
 - Interested in: backend engineering, developer tools, automation
+- Seeking Summer 2026 internship opportunities
 
 ### Featured project
 - **Room Availability Scraper**  
