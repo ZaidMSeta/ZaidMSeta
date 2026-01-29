@@ -3,7 +3,7 @@
 2nd-year CS student @ McMaster who enjoys building software, learning how systems work, and taking on new technical challenges.
 
 ### Currently
-- Learning: data structures & algorithms, systems/concurrency, SQL & data modeling
+- Learning: concurrent systems, databases, software design, and theoretical computer science
 - Interested in: backend engineering, developer tools, automation
 - Seeking Summer 2026 internship opportunities
 
