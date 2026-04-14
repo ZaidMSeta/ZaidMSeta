@@ -11,7 +11,7 @@
 
 - **MacTrack**  
   Course planning and tracking platform for McMaster students with features like schedule building, seat tracking, and professor reviews.  
-  Live: https://mactrack.ca  
+  Live: https://mac-track.ca  
 
 - **Room Availability Scraper**  
   Playwright + TypeScript tool that extracts campus room schedules and converts them into structured, queryable data for downstream applications.  
